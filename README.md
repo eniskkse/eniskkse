@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @eniskkse
+- 👋 Hi, I’m @eniskkse(Enis KÜÇÜKKÖSE)
 - 👀 I’m interested in Python, Machine Learning, Deep Learning,Natural language processing, Data Science,Web Scraping
 - 🌱 I’m currently learning java.
 - 💞️ I’m looking to collaborate on ...
